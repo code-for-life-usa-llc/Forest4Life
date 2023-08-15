@@ -1,0 +1,50 @@
+#DC-1{
+    border: solid rgb(4, 58, 4) 2px;
+    background-color: green;
+    opacity: 0.3s;
+    color:azure;;
+}
+#AG{
+    border: solid rgb(4, 58, 4) 2px;
+    background-color: green;
+    opacity: 0.3s;
+    color:azure;
+}
+#roads{
+    border: solid rgb(4, 58, 4) 2px;
+    background-color: green;
+    opacity: 0.3s;
+    color:azure;
+}
+#RO{
+    border: solid rgb(4, 58, 4) 2px;
+    background-color: green;
+    opacity: 0.3s;
+    color:azure;
+}
+
+}
+#WU{
+    border: solid rgb(4, 58, 4) 2px;
+    background-color: green;
+    opacity: 0.3s;
+    color:azure;
+}
+#WU-p1{
+    border: solid rgb(4, 58, 4) 2px;
+    background-color: green;
+    opacity: 0.3s;
+    color:azure;
+}
+.img{
+    border:solid white;
+}
+#df{
+    color:aliceblue;
+}
+#df-2{
+    color:aliceblue;
+}
+#body{
+    background-color: rgba(0, 128, 0, 0.3); /* Green background with 30% opacity */
+}

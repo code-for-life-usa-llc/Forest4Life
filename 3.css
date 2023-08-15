@@ -1,0 +1,50 @@
+#body{
+    background-color: rgba(0, 128, 0, 0.3); /* Green background with 30% opacity */
+}
+
+#Ava{
+background-color: greenyellow;
+border: solid black 10px;
+margin: 1px;
+padding: 1px;
+color: beige;
+}
+
+
+#this1{
+    background-color: blue;
+    border: solid black 10px;
+    margin: 1px;
+    padding: 1px;
+    color: azure;
+}
+
+
+#uwu{
+    background-color: pink;
+    border: solid black 10px;
+    margin: 1px;
+    padding: 1px;
+    color: blue;
+}
+
+#pickle{
+    background-color: orchid ;
+    border: solid black 10px;
+    margin: 1px;
+    padding: 1px;
+    color: oranges;
+
+}
+
+#nae{
+    color: red;
+    border: solid black 10px;
+    margin: 1px;
+    padding: 1px;
+    color: brown;
+}
+
+p{
+font-size: larger;
+}

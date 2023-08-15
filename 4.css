@@ -1,0 +1,30 @@
+#background{
+  background-color: rgba(0, 128, 0, 0.3); /* Green background with 30% opacity */
+}
+
+#lorax{
+  background-color: yellowgreen;
+    border: solid black 10px;
+   margin: 1px;
+   padding: 1px;
+    color: blue;
+}
+
+
+#dog{
+    background-color: yellowgreen;
+  border: solid black 10px;
+  margin: 1px;
+  padding: 1px;
+    color: beige;
+}
+
+
+
+#pickle{
+  background-color: yellowgreen;
+    border: solid black 10px;
+   margin: 1px;
+   padding: 1px;
+    color: brown;
+}

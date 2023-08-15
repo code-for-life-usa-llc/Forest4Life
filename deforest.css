@@ -1,0 +1,39 @@
+#smart{
+    background-color: rgba(0, 128, 0, 0.3); /* Green background with 30% opacity */
+    
+}
+
+
+.Border{
+    border:  solid green 5px;
+    margin-right: 400px;
+}
+
+.bordertwo{
+    border: solid green 10px;
+    
+    
+    
+}
+
+p{
+    color: black;
+    text-align: center;
+}
+#H{
+    color: black;
+    border: solid green 5px;
+    text-align: center;
+ 
+}
+#O{
+    color: black;
+    margin-left: 350px;
+}
+#M{
+    align-items: center;
+}
+
+#banner{
+    margin-left: 80px;
+}
